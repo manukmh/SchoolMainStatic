@@ -1,0 +1,2 @@
+# SchoolMainStatic
+static main project
